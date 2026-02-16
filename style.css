@@ -1,0 +1,44 @@
+body {
+    background-color: #c0b69e;
+    font-family: Georgia;
+    padding: 5px; 
+    margin: 30px;
+}
+
+
+h1 {
+    font-family: 'Trebuchet MS';
+    color: black;
+    text-align: center;
+    border-bottom: 2px solid steelblue;
+    padding: 5px; 
+    margin: 45px;
+}
+
+h2 {
+    font-family: Georgia;
+    color:black;
+    text-align: left;
+    padding: 2px; 
+    margin: 2px;
+}
+
+p {
+    font-family: Georgia;
+    color: #974044;
+    line-height: 1.6;
+    padding: 3px; 
+    margin: 10px;
+}
+
+.box {
+    font-family: 'Times New Roman';
+    color: black;
+    text-align: center;
+    width: 120px;
+    height: 20px;
+    background-color: steelblue;
+    border: 1px solid black;
+    padding: 8px; 
+    margin: 50px;
+}
